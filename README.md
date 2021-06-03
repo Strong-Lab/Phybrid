@@ -16,7 +16,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Strong-Lab/Phybrid">
-    <img src="images/logo.png" alt="Logo" width="100" height="100">
+    <img src="images/logo.png" alt="Logo" width="250" height="300">
   </a>
   <p align="center">
     A viral identification tool using machine learning with nucleotide and protein features
