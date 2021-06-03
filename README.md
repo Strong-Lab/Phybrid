@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Phybrid
 
-This project was created to identify viral contigs in metagenomics. Add details about project and images
+This project was created to identify viral contigs in metagenomics. This project combines the use of gene content features and k-mer features to select viral contiguous sequences. 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -89,7 +89,8 @@ make
 ## Usage
 Phybrid works as a python script. Once install via pip, Phybrid the command can be accessed. To get the help screen type:
 ```
-Phybrid -h
+cd Phybrid
+scripts/Phybrid.py -h
 ```
 
 The paramters of Phybrid are:
